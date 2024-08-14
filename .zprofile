@@ -1,5 +1,5 @@
 export JAVA_HOME=/Users/cy/.sdkman/candidates/java/current
-export KOTLIN_HOME=/Users/cy/.sdkman/candidates/java/current
+export KOTLIN_HOME=/Users/cy/.sdkman/candidates/kotlin/current
 export GRADLE_HOME=/Users/cy/.sdkman/candidates/gradle/current
 export ANDROID_SDK_ROOT=/Users/cy/Library/Android/sdk/
 export ANDROID_HOME=/Users/cy/Library/Android/sdk/
