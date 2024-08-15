@@ -34,6 +34,11 @@ https://flutter.dev
 `brew install --cask flutter`
 ^ includes dart, no need to download separately 
 
+## Karabiner-Elements: Tool Cy uses to remap keys
+https://karabiner-elements.pqrs.org
+
+`brew install --cask karabiner-elements`
+
 # Version Management
 
 ## SDKMAN: Manage JVM JDKs and SDKs 
